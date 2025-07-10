@@ -1,6 +1,6 @@
 ## I'm Nicolas Amorim 🐦
 
-**`Student for back-end development`**
+**`Java back-end developer`**
 
 <h3 align="center">I am currently 17 years old, I am a 2nd year high school student and I have been delving into the world of programming since I was 15 with HTML and CSS classes, when I identified myself in the Back-end area and I delved into the studies of this area so that I could specialize in this role.</h3>
 
